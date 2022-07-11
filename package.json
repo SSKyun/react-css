@@ -1,0 +1,14 @@
+{
+  "name": "newenwenw",
+  "version": "0.0.1",
+  "description": "",
+  "main": "backjun.js",
+  "scripts": {
+    "test": "asdf"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "",
+  "license": "ISC"
+}
